@@ -3,7 +3,7 @@ from calculos import *
 import pdf_presupuesto
 from mi_negocio import *
 
-st.title("Kiosco Carlos Pan")
+st.title("Peter el del pan")
 st.write("Buen día")
 
 nombre = st.text_input("Escribe tú nombre:")
