@@ -6,8 +6,8 @@ from mi_negocio import *
 st.title("Peter el del pan")
 st.write("Buen día")
 
-logo="logo.png"
-st.image(logo, width=150)
+st.title("Peter el del pan")
+st.write("Buen día")
 
 nombre = st.text_input("Escribe tú nombre:")
 numero = st.number_input("Pon tu número:", min_value=0, step=1)
