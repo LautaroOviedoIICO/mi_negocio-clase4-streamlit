@@ -3,8 +3,8 @@ from calculos import *
 import pdf_presupuesto
 from mi_negocio import *
 
-st.title("Peter el del pan")
-st.write("Buen día")
+logo="logo.png"
+st.image(logo, width=150))
 
 st.title("Peter el del pan")
 st.write("Buen día")
